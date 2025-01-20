@@ -11,13 +11,13 @@ O objetivo deste projeto é resolver problemas técnicos variados, utilizando bo
 
 ### **1. Soma de Números**
 - **Descrição**: Calcula a soma dos números de 1 a N utilizando um loop.
-- **Arquivo**: `Questao1.cs`
+- **Arquivo**: `Questão 1 - Soma.cs`
 
 ---
 
 ### **2. Verificação na Sequência de Fibonacci**
 - **Descrição**: Verifica se um número informado pertence à sequência de Fibonacci.
-- **Arquivo**: `Questao2.cs`
+- **Arquivo**: `Questão 2 - Fibonacci.cs`
 
 ---
 
@@ -26,20 +26,20 @@ O objetivo deste projeto é resolver problemas técnicos variados, utilizando bo
   - O menor valor de faturamento.
   - O maior valor de faturamento.
   - O número de dias com faturamento acima da média.
-- **Arquivo**: `Questao3.cs`
+- **Arquivo**: `Questão 3 - Faturamento.cs`
 - **Dados**: Localizados no arquivo `assets/dados.json`.
 
 ---
 
 ### **4. Percentual de Faturamento por Estado**
 - **Descrição**: Calcula o percentual de participação de cada estado no faturamento total de uma distribuidora.
-- **Arquivo**: `Questao4.cs`
+- **Arquivo**: `Questão 4 - Faturamento Estado.cs`
 
 ---
 
 ### **5. Inversão de String**
 - **Descrição**: Inverte os caracteres de uma string sem usar funções prontas como `Reverse`.
-- **Arquivo**: `Questao5.cs`
+- **Arquivo**: `Questão 5 - Inverter String.cs`
 
 ---
 
