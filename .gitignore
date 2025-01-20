@@ -1,0 +1,12 @@
+# Ignorar arquivos e pastas do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Ignorar pastas de saída
+bin/
+obj/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
